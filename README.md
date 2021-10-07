@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on vikatan as a Full stack developer.
+- 🔭 I’m currently working on Lister Digital as a SSE.
 - 🌱 I’m currently learning svelte and blockchain 
 - 👯 I’m looking to collaborate on opensource projects.
 - 💬 Ask me about Javascript,sitespeed optimization
